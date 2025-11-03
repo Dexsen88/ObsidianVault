@@ -1,0 +1,3 @@
+✅ **Correct Answer: B) Mitigated: Network eavesdropping (Man-in-the-Middle) and [[XSS]] token theft; Pillar: [[Confidentiality]].**
+
+💡 **Explanation:** The **Secure** flag ensures **[[Confidentiality]]** by sending the token only over HTTPS (mitigating eavesdropping). The **HttpOnly** flag prevents JavaScript from accessing the token, mitigating **[[XSS]]** token theft and protecting **[[Confidentiality]]**.

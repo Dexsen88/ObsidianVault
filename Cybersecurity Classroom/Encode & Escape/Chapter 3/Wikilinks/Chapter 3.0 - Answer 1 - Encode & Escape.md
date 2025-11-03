@@ -1,0 +1,3 @@
+✅ **Correct Answer: C) [[Encoding]] is for data representation and reliable transmission; [[Escaping]] is for injection prevention and destroying a character's special meaning in a specific context.**
+
+💡 **Explanation:** **[[Encoding]]** converts data to a safe format for transfer (a reversible process). **[[Escaping]]** changes dangerous characters to literal text (e.g., `<` to `&lt;`) to prevent the browser or interpreter from executing the input as code.

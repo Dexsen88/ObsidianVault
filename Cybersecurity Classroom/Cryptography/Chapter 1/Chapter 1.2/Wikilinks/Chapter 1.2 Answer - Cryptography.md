@@ -1,0 +1,3 @@
+✅ **Correct Answer: B) Hashing proves the file hasn't changed without needing a secret key, and the one-way nature guarantees that an attacker cannot reverse the hash to insert malicious code.**
+
+💡 **Explanation:** The primary advantage is the **fixed-length output** and **collision resistance** that proves data wasn't changed. The one-way nature prevents an attacker from creating a malicious file that reverses to the desired hash.

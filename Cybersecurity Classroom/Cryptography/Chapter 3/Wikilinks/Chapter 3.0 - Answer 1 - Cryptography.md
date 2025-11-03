@@ -1,0 +1,3 @@
+✅ **Correct Answer: B) Advantage: It is significantly faster for bulk data; Use: To encrypt all the application data after the key exchange.**
+
+💡 **Explanation:** **[[Symmetric Encryption]]** is thousands of times faster than **[[Asymmetric Encryption]]**. The **[[TLS Protocol]]** uses the slower asymmetric method _only_ to securely exchange the **[[Symmetric Key]]** (the session key), and then switches to the faster symmetric method to encrypt the actual **Data in Transit**. This is the definition of a **[[Hybrid Cryptosystem]]**.

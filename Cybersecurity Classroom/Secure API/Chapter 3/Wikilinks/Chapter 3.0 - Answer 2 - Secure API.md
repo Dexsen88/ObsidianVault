@@ -1,0 +1,3 @@
+✅ **Correct Answer: C) JWTs contain claims and are secured with a [[Digital Signature]], allowing the API to verify the token's [[Integrity]] and [[Non-Repudiation]] instantly without server-side lookups.**
+
+💡 **Explanation:** The **[[Digital Signature]]** is the key feature that makes JWTs reliable for stateless, high-performance API access control, ensuring the token hasn't been tampered with.

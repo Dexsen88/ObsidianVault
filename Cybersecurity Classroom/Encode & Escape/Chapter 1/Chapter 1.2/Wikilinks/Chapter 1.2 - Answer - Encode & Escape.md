@@ -1,0 +1,3 @@
+✅ **Correct Answer: C) Because client-side validation can be easily bypassed or disabled by an attacker, allowing malicious data to cross the [[Trust Boundary]] uninspected.**
+
+💡 **Explanation:** The client-side is completely controlled by the user/attacker. Only **[[Server-Side Validation]]** provides the mandatory, authoritative security check that prevents malicious data from entering the application logic.

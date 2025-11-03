@@ -1,0 +1,3 @@
+✅ **Correct Answer: B) A mandatory [[Timeout]] should be set to automatically terminate the operation after a maximum duration.**
+
+💡 **Explanation:** A **[[Timeout]]** is the mandatory control to ensure that hanging operations do not lead to resource exhaustion and compromise system **[[Availability]]**. Forcing the operation to terminate ensures the system adheres to the **[[Fail-Safe Defaults]]** principle.

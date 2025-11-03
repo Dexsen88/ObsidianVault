@@ -1,0 +1,3 @@
+✅ **Correct Answer: C) Principle violated: [[Never Trust User Input]]; Defense missed: [[Server-Side Validation]] using [[Parameterized Queries]].**
+
+💡 **Explanation:** The vulnerability stems from trusting the input. The specific payload is an **[[SQL Injection]]** attack, which is prevented on the server by treating the input as data only (via Parameterized Queries) and not as executable code.

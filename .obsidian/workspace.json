@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "6f99606a69cc5725",
+    "type": "split",
+    "children": [
+      {
+        "id": "86c9b9be561de33a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fd341db5d23c491",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity Classroom/Secure Database Access/Chapter 2/Chapter 2.1/Chapter 2.1 – Data Protection in the Database 💾.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 2.1 – Data Protection in the Database 💾"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6383349eb28b66a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "918d8e8c3cc88cc7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b64e12c6e9a1cbd1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fe65e7386050e61b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8d1fb68fdf10be51",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "df21ead6ef85c2d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f036a2438c9e64b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af2ac535ee26d660",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cybersecurity Classroom/Input Validation/Chapter 1/Chapter 1.1 - The Core Principle Of Trust🚫.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Chapter 1.1 - The Core Principle Of Trust🚫"
+            }
+          },
+          {
+            "id": "ba8bd174bcb66853",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cybersecurity Classroom/Input Validation/Chapter 1/Chapter 1.1 - The Core Principle Of Trust🚫.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Chapter 1.1 - The Core Principle Of Trust🚫"
+            }
+          },
+          {
+            "id": "87516b16bd0787c6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c8ce3161eb0f182d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cybersecurity Classroom/Input Validation/Chapter 1/Chapter 1.1 - The Core Principle Of Trust🚫.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Chapter 1.1 - The Core Principle Of Trust🚫"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "b64e12c6e9a1cbd1",
+  "lastOpenFiles": [
+    "Cybersecurity Classroom/Secure Database Access/Chapter 2/Chapter 2.1/Wikilinks/Chapter 2.1 - Answer - Secure Database Access.md",
+    "Cybersecurity Classroom/Secure Database Access/Chapter 2/Chapter 2.1/Chapter 2.1 – Data Protection in the Database 💾.md",
+    "Cybersecurity Classroom/Secure Database Access/Chapter 1/Chapter 1.2/Chapter 1.2 – Parameterization and Stored Procedures 📝.md",
+    "Cybersecurity Classroom/Secure Database Access/Chapter 2/Chapter 2.3",
+    "Cybersecurity Classroom/Secure Database Access/Chapter 2/Chapter 2.2",
+    "Cybersecurity Classroom/Secure Database Access/Chapter 2/Chapter 2.1",
+    "Cybersecurity Classroom/Secure Database Access/Chapter 2/Chapter 2.1/Wikilinks",
+    "Cybersecurity Classroom/Secure Database Access/Chapter 2/Chapter 2.1/Properties",
+    "Cybersecurity Classroom/Secure Database Access/Chapter 1/Chapter 1.2/Wikilinks/Chapter 1.2 - Answer - Secure Database Access.md",
+    "Cybersecurity Classroom/Secure Database Access/Chapter 1/Chapter 1.2/Wikilinks/Separation of Duties.md",
+    "Cybersecurity Classroom/Secure Database Access/Chapter 1/Chapter 1.1/Wikilinks/Chapter 1.1 - Answer - Secure Database Access.md",
+    "Cybersecurity Classroom/Secure Database Access/Chapter 1/Chapter 1.2/Wikilinks",
+    "Cybersecurity Classroom/Secure Database Access/Chapter 1/Chapter 1.2/Properties",
+    "Cybersecurity Classroom/Secure Database Access/Chapter 1/Chapter 1.1/Chapter 1.1 – Defense-in-Depth for Database Access 🛡️.md",
+    "Cybersecurity Classroom/Secure Database Access/Chapter 1/Chapter 1.1/Wikilinks/Data Masking.md",
+    "Cybersecurity Classroom/Secure Database Access/Chapter 1/Chapter 1.1/Wikilinks/Data Encryption.md",
+    "Cybersecurity Classroom/Secure Database Access/Chapter 1/Chapter 1.1/Wikilinks/Defense-in-Depth.md",
+    "Cybersecurity Classroom/Secure API/Chapter 2/Chapter 2.3/Chapter 2.3 – API Rate Limiting and Payload Security 🗄️.md",
+    "Cybersecurity Classroom/Secure Database Access/Chapter 1/Chapter 1.1/Wikilinks",
+    "Cybersecurity Classroom/Secure Database Access/Chapter 1/Chapter 1.1/Properties",
+    "Cybersecurity Classroom/Secure Database Access/Chapter 1/Chapter 1.2",
+    "Cybersecurity Classroom/Secure API/Chapter 2/Chapter 2.3/Wikilinks/Aisha's Costly Burst.png",
+    "Cybersecurity Classroom/Secure API/Chapter 2/Chapter 2.2/Chapter 2.2 – Security Headers and Input Validation 🛡️.md",
+    "Cybersecurity Classroom/Secure API/Chapter 2/Chapter 2.2/Properties/CSRF Defense in APIs.png",
+    "Cybersecurity Classroom/Secure API/Chapter 2/Chapter 2.2/Properties/Aisha's Cross-Origin.png",
+    "Cybersecurity Classroom/Secure API/Chapter 2/Chapter 2.1/Chapter 2.1 – Mass Assignment and Data Limiting 📏.md",
+    "Cybersecurity Classroom/Secure API/Chapter 2/Chapter 2.1/Properties/API Schema Validation.png",
+    "Cybersecurity Classroom/Secure API/Chapter 2/Chapter 2.1/Properties/Aisha's Hidden Fields.png",
+    "Cybersecurity Classroom/Secure API/Chapter 1/Chapter 1.2/Chapter 1.2 – Broken Access Control (BOLA and IDOR) 🛑.md",
+    "Cybersecurity Classroom/Secure API/Chapter 1/Chapter 1.2/Properties/Mandatory Defense.png",
+    "Cybersecurity Classroom/Secure API/Chapter 1/Chapter 1.2/Properties/Aisha's Data Breach.png",
+    "Cybersecurity Classroom/Secure API/Chapter 1/Chapter 1.1/Chapter 1.1 – API Design Principles and Authentication 🔑.md",
+    "Cybersecurity Classroom/Secure API/Chapter 1/Chapter 1.1/Properties/HTPPSS Protocol.png",
+    "Pasted image 20251030144222.png",
+    "Pasted image 20251030144210.png",
+    "Cybersecurity Classroom/Secure API/Chapter 3/Wikilinks/Chapter 3.0 - Answer 5 - Secure API.md",
+    "Cybersecurity Classroom/Secure API/Chapter 3/Chapter 3.0 – The Ultimate Secure API Quiz 🚀.md",
+    "Cybersecurity Classroom/Secure API/Chapter 3/Wikilinks/Chapter 3.0 - Answer 4 - Secure API.md",
+    "Cybersecurity Classroom/Secure API/Chapter 3/Wikilinks/Chapter 3.0 - Answer 3 - Secure API.md",
+    "Cybersecurity Classroom/Secure API/Chapter 3/Wikilinks/Chapter 3.0 - Answer 2 - Secure API.md",
+    "Cybersecurity Classroom/Secure API/Chapter 3/Wikilinks/Chapter 3.0 - Answer 1 - Secure API.md",
+    "Cybersecurity Classroom/Secure API/Chapter 2/Chapter 2.3/Wikilinks/Chapter 2.3 - Answer - Secure API.md",
+    "Cybersecurity Classroom/Secure API/Chapter 2/Chapter 2.2/Wikilinks/Chapter 2.2 - Answer - Secure API.md",
+    "Cybersecurity Classroom/Secure API/Chapter 2/Chapter 2.2/Wikilinks/CORS (Cross-Origin Resource Sharing).md",
+    "Cybersecurity Classroom/Secure API/Chapter 2/Chapter 2.2/Wikilinks/CSRF (Cross-Site Request Forgery).md",
+    "Cybersecurity Classroom/Secure API/Chapter 2/Chapter 2.1/Wikilinks/Chapter 2.1 - Answer - Secure API.md",
+    "Untitled.canvas",
+    "Cybersecurity Classroom/Cryptography/Chapter 2/Chapter 2.1/Untitled.canvas",
+    "Cybersecurity Classroom/Malicious Code/Untitled.canvas",
+    "Cybersecurity Classroom/Input Validation/Chapter 1/Chapter 1.1/Untitled.canvas",
+    "Cybersecurity Classroom/Input Validation/Chapter 1/Chapter 1.2/Untitled.canvas"
+  ]
+}

@@ -1,0 +1,3 @@
+✅ **Correct Answer: D) [[Tokenization]] replaces the sensitive card data with a non-sensitive placeholder, greatly reducing the scope and compliance cost of the [[PCI DSS]] requirements.**
+
+💡 **Explanation:** **[[PCI DSS]]** compliance is costly and complex. By using **[[Tokenization]]**, the majority of the organization's infrastructure only touches the non-sensitive token, which is not in scope for the most stringent PCI requirements, effectively minimizing the attack surface.

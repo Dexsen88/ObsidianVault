@@ -1,0 +1,3 @@
+✅ **Correct Answer: C) Because the collection of sensitive biometric data is a high-risk activity that requires a proactive assessment to embed [[Data Protection]] controls.**
+
+💡 **Explanation:** The **DPIA** is designed to identify and mitigate high risks associated with new data processing activities, particularly those involving sensitive **[[Personally Identifiable Information (PII)]]** like biometrics, adhering to the "Privacy by Design" principle.

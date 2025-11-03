@@ -1,0 +1,3 @@
+✅ **Correct Answer: C) Validation is the "check" that accepts or rejects the input, while Sanitization is the "clean-up" that transforms unsafe elements into safe elements.**
+
+💡 **Explanation:** Validation determines if the data is _acceptable_. Sanitization actively modifies acceptable data (e.g., stripping dangerous tags while leaving safe ones) to make it harmless for storage or processing, preserving the user's intent as much as possible.

@@ -1,0 +1,3 @@
+✅ **Correct Answer: C) [[Anonymization]] is the irreversible destruction of identity, taking the data out of [[GDPR]]'s scope; [[Pseudonymization]] is reversible and keeps the data within [[GDPR]]'s scope.**
+
+💡 **Explanation:** The reversibility of **[[Pseudonymization]]** means the data is still considered **[[Personally Identifiable Information (PII)]]** under **[[GDPR]]** and requires continued protection. **[[Anonymization]]** is the gold standard because it makes re-identification impossible.

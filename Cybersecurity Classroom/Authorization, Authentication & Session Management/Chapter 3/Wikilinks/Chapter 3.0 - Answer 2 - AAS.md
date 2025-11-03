@@ -1,0 +1,3 @@
+✅ **Correct Answer: C) Failed Component: [[Authorization]] (Access Control); Vulnerability: [[Insecure Direct Object Reference (IDOR)]].**
+
+💡 **Explanation:** The user was successfully **[[Authentication]]**'d, but the application failed to perform the necessary **[[Authorization]]** check on the **[[Server-Side Validation]]** to verify if the user's **[[Role]]** was permitted to access the specific object (`doc_id=51`). This failure to check user-supplied identifiers is known as **[[IDOR]]**.

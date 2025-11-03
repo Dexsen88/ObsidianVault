@@ -1,0 +1,3 @@
+✅ **Correct Answer: C) SHA-256 is too fast, making offline brute-force attacks practical; the alternative is a slow, iterative [[Key Derivation Function (KDF)]] like Argon2 or bcrypt.**
+
+💡 **Explanation:** The primary goal of a password hash is to be computationally expensive for an attacker. **[[Key Derivation Function (KDF)]]**s are specifically designed for this purpose, consuming significant time and memory with each hash iteration.

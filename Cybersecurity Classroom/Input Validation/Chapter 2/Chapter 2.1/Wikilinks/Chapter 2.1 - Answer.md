@@ -1,0 +1,3 @@
+✅ **Correct Answer: B) It allows an attacker to conduct a Denial of Service (DoS) attack by overwhelming the server or database with excessive memory allocation.**
+
+💡 **Explanation:** Setting a reasonable length limit is a defense against resource exhaustion. Excessively large strings consume disproportionate memory on the server and in the database, potentially leading to a **Denial of Service (DoS)** condition.

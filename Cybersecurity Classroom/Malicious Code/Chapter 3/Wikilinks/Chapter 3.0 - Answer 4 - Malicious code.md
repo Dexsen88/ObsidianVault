@@ -1,0 +1,3 @@
+✅ **Correct Answer: B) Because it allows other malware (like a [[Backdoor]] or [[Keylogger]]) to remain persistently hidden from OS-level security and monitoring tools.**
+
+💡 **Explanation:** The **[[Rootkit]]**'s primary purpose is stealth and persistence. By hiding the existence of other **[[Malware]]**, it prevents detection and allows the attacker to maintain a long-term **[[Command-and-Control (C2)]]** channel for **[[Information Leakage]]**.

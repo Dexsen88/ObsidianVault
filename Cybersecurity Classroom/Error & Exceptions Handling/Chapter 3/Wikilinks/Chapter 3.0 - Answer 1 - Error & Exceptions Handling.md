@@ -1,0 +1,3 @@
+✅ **Correct Answer: C) Principle Violated: [[Fail-Safe Defaults]]; Consequence: A [[Confidentiality]] breach by allowing unauthorized access (failing open).**
+
+💡 **Explanation:** The principle of **[[Fail-Safe Defaults]]** requires a system to default to a secure (closed/denied) state when a security component fails. Allowing access when the session store is unavailable is "failing open," which is a severe **[[Confidentiality]]** risk.

@@ -1,0 +1,3 @@
+✅ **Correct Answer: C) Client-side validation can be easily bypassed by disabling JavaScript or submitting a request directly via an API tool, allowing malicious input to reach the application core.**
+
+💡 **Explanation:** The vulnerability lies in the client's lack of trustworthiness. An attacker can completely bypass client-side logic, meaning the only security gate that matters is the one that executes on the server.

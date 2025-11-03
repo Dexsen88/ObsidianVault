@@ -1,0 +1,3 @@
+✅ **Correct Answer: C) Factors: Knowledge, Inherence, and Possession; Purpose: To prevent [[Rainbow Table]] attacks by making each password hash unique.**
+
+💡 **Explanation:** The password is Knowledge, the fingerprint is Inherence, and the Hardware Token is Possession. The **[[Salt]]** is a random value added to the password _before_ hashing, making the resulting **[[Password Hash]]** unique per user and defeating pre-computed **[[Rainbow Table]]** lookups.

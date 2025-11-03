@@ -1,0 +1,3 @@
+✅ **Correct Answer: B) Principle Violated: [[Principle of Least Privilege]]; Consequence: The attacker can use the stolen credentials to modify or destroy the entire database (Integrity/Availability breach).**
+
+💡 **Explanation:** Granting excessive privileges violates the **[[Principle of Least Privilege]]**. If the application is compromised, the damage is amplified to the full extent of the account's over-privileges.

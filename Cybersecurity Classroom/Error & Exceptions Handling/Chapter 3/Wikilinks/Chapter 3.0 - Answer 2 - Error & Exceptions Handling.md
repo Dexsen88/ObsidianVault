@@ -1,0 +1,3 @@
+✅ **Correct Answer: B) Because it exposes internal server details (e.g., file paths, library versions), leading to [[Information Leakage]], which compromises the [[Confidentiality]] control.**
+
+💡 **Explanation:** **[[Verbose Error Message]]**s give attackers free reconnaissance, a process known as **[[Information Leakage]]**. The goal of secure error handling is to suppress these details to protect internal **[[Confidentiality]]**.

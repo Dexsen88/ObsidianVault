@@ -1,0 +1,3 @@
+✅ **Correct Answer: C) Blacklisting (used incorrectly) and [[Canonicalization]] (missed).**
+
+💡 **Explanation:** The developer used the brittle **Blacklisting** strategy. Furthermore, they missed **[[Canonicalization]]**, which would have decoded the URL-encoded attack back into the dangerous characters, allowing the filter (even a blacklisting one) to catch it. The better solution is always **Whitelisting**.
