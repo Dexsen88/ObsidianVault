@@ -1,4 +1,5 @@
 **🌟 Aisha’s Compromised Credentials**
+![[Aisha's Compromised Credentials.png]]
 
 Aisha's web server was breached due to an unpatched [[Vulnerability]]. The attacker found the database connection string and used those credentials to log into the database directly, bypassing all application-level controls and stealing the entire customer list.
 
@@ -25,6 +26,7 @@ Two security principles are non-negotiable for database access:
     
 
 ### 🎯 **Connection Strings and Key Management**
+![[Connection Strings and Key Management.png]]
 
 Database connection strings contain critical **[[Authentication]]** secrets. They must **never** be stored directly in source code or configuration files that are checked into version control.
 

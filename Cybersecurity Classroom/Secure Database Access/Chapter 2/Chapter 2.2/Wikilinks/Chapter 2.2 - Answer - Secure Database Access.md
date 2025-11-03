@@ -1,0 +1,3 @@
+✅ **Correct Answer: C) To prevent a compromised database administrator or attacker from destroying or modifying the logs to hide their actions, thereby ensuring [[Non-Repudiation]].**
+
+💡 **Explanation:** The integrity of the audit trail is essential for forensics and **[[Non-Repudiation]]**. Forwarding logs off-server prevents the attacker from erasing their tracks on the compromised database host.

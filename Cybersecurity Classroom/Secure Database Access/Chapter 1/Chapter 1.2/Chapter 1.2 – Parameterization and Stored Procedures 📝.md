@@ -1,4 +1,5 @@
 🌟 **Aisha’s Query Failure** 
+![[Aisha's Query Failure.png]]
 
 Aisha used string concatenation to build a database query based on user input for a search feature. An attacker noticed the input field and typed `' OR '1'='1`. The resulting query was executed, causing the application to return all customer records, not just the one requested.
 
@@ -23,6 +24,7 @@ Elena: “That was a classic **[[SQL Injection]]** attack, the number one databa
     
 
 ### 🎯 **Separation of Duties (Administrative Control)**
+![[Separation of Duties.png]]
 
 **[[Separation of Duties]]** is an administrative and procedural control that ensures no single individual has control over all critical aspects of a security process. In the context of database access, it is vital for **[[Integrity]]** and **[[Non-Repudiation]]**.
 

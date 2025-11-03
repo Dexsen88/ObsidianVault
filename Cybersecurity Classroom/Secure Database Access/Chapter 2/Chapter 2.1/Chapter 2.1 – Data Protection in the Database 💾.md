@@ -1,4 +1,5 @@
 🌟 **Aisha’s Stolen Hard Drive** 
+![[Aisha's Stolen Hard Drive.png]]
 
 Aisha's database server, which was protected by strong network firewalls, was physically stolen from the data center. While the thief could not log in, they now have the raw hard drive containing the database files.
 
@@ -31,6 +32,7 @@ Storing user passwords in plaintext is a catastrophic security failure. They mus
     
 
 ### 🎯 **Data Masking and Tokenization**
+![[Data Masking & Tokenization.png]]
 
 To protect **[[Confidentiality]]** in non-production environments, two additional controls are used:
 
