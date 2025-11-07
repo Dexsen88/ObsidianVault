@@ -1,0 +1,3 @@
+✅ **Correct Answer: C) To ensure that during a forensic investigation, log entries from multiple, disparate systems can be accurately correlated and sequenced to build a reliable chain of events.**
+
+💡 **Explanation:** A few seconds' time drift between servers can make it impossible to prove the sequence of an attack, invalidating the entire forensic analysis. Consistent time is the foundation of log fidelity.

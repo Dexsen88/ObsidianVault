@@ -1,0 +1,3 @@
+✅ **Correct Answer: B) It guarantees deterministic dependency versions across all environments, and its integrity hash prevents a compromised package from being installed (Supply Chain Attack defense).**
+
+💡 **Explanation:** The lock file ensures **Determinism** (stability/reproducibility) and the hash check provides a strong defense against version tampering, protecting the **[[Integrity]]** of the software supply chain.
