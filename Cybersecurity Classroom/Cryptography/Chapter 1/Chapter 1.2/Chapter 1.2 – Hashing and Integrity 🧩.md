@@ -36,7 +36,7 @@ A common confusion point is the difference between hashing and encryption:
 
 A) Symmetric Encryption is too slow for large files and requires a **[[Public Key]]**.
 
-B) **Hashing proves the file hasn't changed without needing a secret key, and the one-way nature guarantees that an attacker cannot reverse the hash to insert malicious code.** ✅
+B) **Hashing proves the file hasn't changed without needing a secret key, and the one-way nature guarantees that an attacker cannot reverse the hash to insert malicious code.** 
 
 C) Symmetric Encryption can be reversed by an attacker, revealing the original file content.
 

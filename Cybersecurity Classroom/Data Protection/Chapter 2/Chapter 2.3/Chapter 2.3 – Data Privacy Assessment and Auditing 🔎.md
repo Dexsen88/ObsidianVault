@@ -37,7 +37,7 @@ A) Only when implementing a **[[Key Derivation Function (KDF)]]** for new passwo
 
 B) Only when the data is being disposed of using **[[Data Sanitization]]**.
 
-C) **When a data processing activity is likely to result in a "high risk" to the rights and freedoms of individuals.** ✅
+C) **When a data processing activity is likely to result in a "high risk" to the rights and freedoms of individuals.** 
 
 D) When switching a website from HTTP to the **[[TLS Protocol]]** (HTTPS).
 

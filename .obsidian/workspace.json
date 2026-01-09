@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity Classroom/Security Logging/Chapter 2/Chapter 2.3/Chapter 2.3 – Audit Log Retention and Compliance ⚖️.md",
+                "file": "Cybersecurity Classroom/Encode & Escape/Chapter 1/Chapter 1.1/Wikilinks/Chapter 1.1 - Answer - Encode & Escape.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 2.3 – Audit Log Retention and Compliance ⚖️"
+              "title": "Chapter 1.1 - Answer - Encode & Escape"
+            }
+          },
+          {
+            "id": "45d95d9934b765dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity Classroom/Security Logging/Chapter 3/Chapter 3.0 – The Ultimate Security Logging Quiz 🚀.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 3.0 – The Ultimate Security Logging Quiz 🚀"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity Classroom/Input Validation/Chapter 1/Chapter 1.1 - The Core Principle Of Trust🚫.md",
+                "file": "Cybersecurity Classroom/Security Logging/Chapter 3/Chapter 3.0 – The Ultimate Security Logging Quiz 🚀.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Chapter 1.1 - The Core Principle Of Trust🚫"
+              "title": "Backlinks for Chapter 3.0 – The Ultimate Security Logging Quiz 🚀"
             }
           },
           {
@@ -155,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,54 +183,54 @@
       "bases:Create new base": false
     }
   },
-  "active": "b64e12c6e9a1cbd1",
+  "active": "45d95d9934b765dc",
   "lastOpenFiles": [
+    "Cybersecurity Classroom/Security Logging/Chapter 2/Chapter 2.3/Chapter 2.3 – Audit Log Retention and Compliance ⚖️.md",
+    "Cybersecurity Classroom/Security Logging/Chapter 2/Chapter 2.2/Chapter 2.2 – Incident Response and Forensics 🔬.md",
+    "Cybersecurity Classroom/Security Logging/Chapter 2/Chapter 2.1/Wikilinks/Chapter 2.1 - Answer - Security Logging.md",
+    "Cybersecurity Classroom/Security Logging/Chapter 2/Chapter 2.1/Chapter 2.1 – Monitoring and Alerting Fundamentals 🔔.md",
+    "Cybersecurity Classroom/Security Logging/Chapter 1/Chapter 1.2/Wikilinks/Chapter 1.2 - Answer - Security Logging.md",
+    "Cybersecurity Classroom/Security Logging/Chapter 1/Chapter 1.2/Chapter 1.2 – Types of Mandatory Events to Log 🚨.md",
+    "Cybersecurity Classroom/Security Logging/Chapter 1/Chapter 1.1/Properties/Chapter 1.1 - Answer - Security Logging.md",
+    "Cybersecurity Classroom/Security Logging/Chapter 1/Chapter 1.1/Chapter 1.1 – Mandatory Logging Principles 📜.md",
+    "Cybersecurity Classroom/Secure NPM/Chapter 3/Chapter 3.0 – The Ultimate Secure NPM Quiz 🚀.md",
+    "Cybersecurity Classroom/Secure NPM/Chapter 2/Chapter 2.3/Wikilinks/Chapter 2.3 - Answer - Secure NPM.md",
+    "Cybersecurity Classroom/Secure NPM/Chapter 2/Chapter 2.3/Wikilinks/Software Composition Analysis (SCA).md",
+    "Cybersecurity Classroom/Secure NPM/Chapter 2/Chapter 2.3/Chapter 2.3 – Managing Deprecation and Licensing 📅.md",
+    "Cybersecurity Classroom/Secure NPM/Chapter 2/Chapter 2.2/Wikilinks/Chapter 2.2 - Answer - Secure NPM.md",
+    "Cybersecurity Classroom/Secure NPM/Chapter 2/Chapter 2.2/Chapter 2.2 – Executing Dependencies Safely 🚦.md",
+    "Cybersecurity Classroom/Secure NPM/Chapter 2/Chapter 2.1/Wikilinks/Chapter 2.1 - Answer - Secure NPM.md",
+    "Cybersecurity Classroom/Cryptography/Chapter 2/Chapter 2.2/Wikilinks/Key Management System (KMS).md",
+    "Cybersecurity Classroom/Secure NPM/Chapter 2/Chapter 2.1/Chapter 2.1 – Registry and Token Security 🔑.md",
+    "Cybersecurity Classroom/Secure NPM/Chapter 1/Chapter 1.2/Wikilinks/Chapter 1.2 - Answer - Secure NPM.md",
+    "Cybersecurity Classroom/Secure NPM/Chapter 1/Chapter 1.2/Wikilinks/Supply Chain Attack.md",
+    "Cybersecurity Classroom/Secure NPM/Chapter 1/Chapter 1.2/Chapter 1.2 – Locking and Pinning Dependencies 📌.md",
+    "Cybersecurity Classroom/Secure NPM/Chapter 1/Chapter 1.1/WIkilinks/Chapter 1.1 - Answer - Secure NPM.md",
+    "Cybersecurity Classroom/Secure NPM/Chapter 1/Chapter 1.1/Chapter 1.1 – Supply Chain Risk and Auditing ⛓️.md",
+    "Cybersecurity Classroom/Secure Database Access/Chapter 3/Chapter 3.0 – The Ultimate Quiz 🚀.md",
+    "Cybersecurity Classroom/Secure Database Access/Chapter 2/Chapter 2.3/Wikilinks/Chapter 2.3 - Answer - Secure Database Access.md",
+    "Cybersecurity Classroom/Secure Database Access/Chapter 2/Chapter 2.3/Chapter 2.3 – Database Hardening and Network Segmentation 🌐.md",
+    "Cybersecurity Classroom/Secure Database Access/Chapter 2/Chapter 2.2/Wikilinks/Chapter 2.2 - Answer - Secure Database Access.md",
     "Cybersecurity Classroom/Security Logging/Chapter 2/Chapter 2.3/Properties/Protecting Archival Logs.png",
     "Cybersecurity Classroom/Security Logging/Chapter 2/Chapter 2.3/Properties/Aisha's Compliance Audit.png",
-    "Cybersecurity Classroom/Security Logging/Chapter 2/Chapter 2.2/Chapter 2.2 – Incident Response and Forensics 🔬.md",
     "Cybersecurity Classroom/Security Logging/Chapter 2/Chapter 2.2/Properties/Forensic Mandates.png",
     "Cybersecurity Classroom/Security Logging/Chapter 2/Chapter 2.2/Properties/AIsha's Breach Cleanup.png",
-    "Cybersecurity Classroom/Security Logging/Chapter 1/Chapter 1.2/Chapter 1.2 – Types of Mandatory Events to Log 🚨.md",
     "Cybersecurity Classroom/Security Logging/Chapter 1/Chapter 1.2/Properties/System and Exception Events.png",
     "Cybersecurity Classroom/Security Logging/Chapter 1/Chapter 1.2/Properties/Aisha's Missing Evidence.png",
     "Pasted image 20251107163145.png",
-    "Cybersecurity Classroom/Security Logging/Chapter 1/Chapter 1.1/Chapter 1.1 – Mandatory Logging Principles 📜.md",
     "Cybersecurity Classroom/Security Logging/Chapter 1/Chapter 1.1/Properties/Aisha's Blind Spot.png",
     "Cybersecurity Classroom/Security Logging/Chapter 1/Chapter 1.1/Properties/Avoiding Log Injection and PII.png",
-    "Cybersecurity Classroom/Security Logging/Chapter 3/Wikilinks/Chapter 3.0 - Answer 5 - Security Logging.md",
-    "Cybersecurity Classroom/Security Logging/Chapter 3/Chapter 3.0 – The Ultimate Security Logging Quiz 🚀.md",
-    "Cybersecurity Classroom/Security Logging/Chapter 3/Wikilinks/Chapter 3.0 - Answer 4 - Security Logging.md",
-    "Cybersecurity Classroom/Security Logging/Chapter 3/Wikilinks/Chapter 3.0 - Answer 3 - Security Logging.md",
-    "Cybersecurity Classroom/Security Logging/Chapter 3/Wikilinks/Log Retention.md",
-    "Cybersecurity Classroom/Security Logging/Chapter 3/Wikilinks/Chapter 3.0 - Answer 2 - Security Logging.md",
-    "Cybersecurity Classroom/Security Logging/Chapter 3/Wikilinks/Incident Response.md",
-    "Cybersecurity Classroom/Security Logging/Chapter 3/Wikilinks/Chapter 3.0 - Answer 1 - Security Logging.md",
-    "Cybersecurity Classroom/Security Logging/Chapter 2/Chapter 2.3/Wikilinks/Chapter 2.3 - Answer - Security Logging.md",
     "Cybersecurity Classroom/Security Logging/Chapter 3/Wikilinks",
-    "Cybersecurity Classroom/Security Logging/Chapter 2/Chapter 2.3/Chapter 2.3 – Audit Log Retention and Compliance ⚖️.md",
-    "Cybersecurity Classroom/Security Logging/Chapter 2/Chapter 2.3/Wikilinks/Pinning (Dependency).md",
     "Cybersecurity Classroom/Security Logging/Chapter 2/Chapter 2.3/Wikilinks",
     "Cybersecurity Classroom/Security Logging/Chapter 2/Chapter 2.3/Properties",
-    "Cybersecurity Classroom/Security Logging/Chapter 2/Chapter 2.2/Wikilinks/Chapter 2.2 - Answer - Security Logging.md",
-    "Cybersecurity Classroom/Secure NPM/Chapter 2/Chapter 2.3/Wikilinks/Software Composition Analysis (SCA).md",
-    "Cybersecurity Classroom/Secure Database Access/Chapter 1/Chapter 1.1/Chapter 1.1 – Defense-in-Depth for Database Access 🛡️.md",
-    "Cybersecurity Classroom/Security Logging/Chapter 2/Chapter 2.1/Wikilinks/Chapter 2.1 - Answer - Security Logging.md",
     "Cybersecurity Classroom/Security Logging/Chapter 2/Chapter 2.2/Wikilinks",
     "Cybersecurity Classroom/Security Logging/Chapter 2/Chapter 2.2/Properties",
-    "Cybersecurity Classroom/Security Logging/Chapter 2/Chapter 2.1/Chapter 2.1 – Monitoring and Alerting Fundamentals 🔔.md",
-    "Cybersecurity Classroom/Security Logging/Chapter 2/Chapter 2.1/Wikilinks/Security Information and Event Management (SIEM).md",
     "Cybersecurity Classroom/Security Logging/Chapter 2/Chapter 2.1/Wikilinks",
     "Cybersecurity Classroom/Security Logging/Chapter 2/Chapter 2.1/Properties",
     "Cybersecurity Classroom/Security Logging/Chapter 2/Untitled",
-    "Cybersecurity Classroom/Security Logging/Chapter 1/Chapter 1.2/Wikilinks/Chapter 1.2 - Answer - Security Logging.md",
-    "Cybersecurity Classroom/Security Logging/Chapter 1/Chapter 1.2/Wikilinks/Buffer Overflow.md",
     "Cybersecurity Classroom/Security Logging/Chapter 1/Chapter 1.2/Wikilinks",
     "Cybersecurity Classroom/Security Logging/Chapter 1/Chapter 1.2/Properties",
-    "Cybersecurity Classroom/Security Logging/Chapter 1/Chapter 1.1/Properties/Chapter 1.1 - Answer - Security Logging.md",
-    "Cybersecurity Classroom/Secure NPM/Chapter 2/Chapter 2.3/Chapter 2.3 – Managing Deprecation and Licensing 📅.md",
     "Cybersecurity Classroom/Secure NPM/Chapter 2/Chapter 2.3/Properties/The Repository Health Score.png",
-    "Cybersecurity Classroom/Secure NPM/Chapter 2/Chapter 2.3/Properties/Aisha's Technical Debt.png",
-    "Cybersecurity Classroom/Secure NPM/Chapter 2/Chapter 2.2/Chapter 2.2 – Executing Dependencies Safely 🚦.md",
     "Untitled.canvas",
     "Cybersecurity Classroom/Cryptography/Chapter 2/Chapter 2.1/Untitled.canvas",
     "Cybersecurity Classroom/Malicious Code/Untitled.canvas",
